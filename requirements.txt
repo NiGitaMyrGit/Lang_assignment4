@@ -1,4 +1,8 @@
-tensorflow-cpu==
-transformers==4.11.3
-pandas==1.5.3
+tensorflow==2.12.0
+transformers==4.29.2
+pandas==2.0.1
 matplotlib==3.4.3
+scikit_learn==1.2.1
+torch==2.0.1
+numpy==1.23.5
+datasets==2.12.0

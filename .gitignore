@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 help/
+drafts/
+logs/
 
 
 # C extensions
