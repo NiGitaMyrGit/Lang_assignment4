@@ -46,7 +46,7 @@ def main():
     classifier = load_pipeline()
     data = remove_stopwords(data)
     emo_class(data, classifier)
-    output_path = os.path.join("out", "emotional_classification_filtered.csv")
+    output_path = os.path.join("out", "emotional_classification.csv")
     data.to_csv(output_path, index=False)
 
 if __name__ == "__main__":
