@@ -46,7 +46,7 @@ From the command line, make sure you are located in the main-directory. From her
 ### 4.2 Run the scripts
 In order to run the scritps, make sure you are located in th main directory. From here run the command `python3 src/emo_classification.py`
 
-## 5. Data discussion
+## 5. Discussion of results
 As can be seen in the folder ```out```, there are 4 files. Three of them are ```.png``` image files with barplots.
 ```emotion_all_headlines.png``` shows the distribution of the most prevalent emotions in all of the headlines. 
 ```emotion_fake_headlines.png``` shows the distribution of the most prevalent emotions the headlines classified as "fake news"
